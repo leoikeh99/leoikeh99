@@ -8,7 +8,7 @@ Hello I'm Leonard, a Full-stack developer that very much loves building/creating
 
 ## 🔧 Technologies & Tools
 
-- 📱 &nbsp;Frontend:&nbsp;
+- 💻 &nbsp;Frontend:&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -16,7 +16,7 @@ Hello I'm Leonard, a Full-stack developer that very much loves building/creating
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Styled Components](https://img.shields.io/badge/-Styled_Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
-- 📱 &nbsp;Backend:&nbsp;
+- 🗄 &nbsp;Backend:&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Astro](https://img.shields.io/badge/-Astro-ff5d01?style=for-the-badge&logo=astro&logoColor=white)
